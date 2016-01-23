@@ -4,7 +4,7 @@
   "description": "Add an interactive credit card animation to your payment form.",
   "main": "lib/card-react-form-container.js",
   "dependencies": {
-    "payment": "0.0.10",
+    "payment": "0.0.12",
     "classnames": "^2.1.2"
   },
   "devDependencies": {
@@ -24,7 +24,8 @@
     "grunt-contrib-sass": "^0.9.2",
     "grunt-contrib-uglify": "^0.9.1",
     "grunt-contrib-watch": "^0.6.1",
-    "react": "^0.13.3",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
     "uglify-save-license": "^0.4.1"
   },
   "scripts": {
